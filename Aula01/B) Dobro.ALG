@@ -1,0 +1,21 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 19/08/2019
+Var
+// Seção de Declarações das variáveis 
+Numero,Dobro:real
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva("Escreva um numero:")
+leia(Numero)
+escreval("O numero e:",Numero)
+Dobro <- Numero+Numero
+escreva(" O dobro de ",Numero," E:",Dobro)
+
+
+Fimalgoritmo
